@@ -3,3 +3,4 @@ testB的工作区的编辑数据 ----edit second
 testB的测试修改数据，测试被拉取---Git fetch + Git merge
 testB的测试修改数据，测试被拉取---Git pull
 testB的测试修改数据，测试远程库的分支合并冲突
+testA的数据测试远程库的分支合并冲突--Git conflict:
